@@ -1,7 +1,12 @@
 aid: public-service-enterprise
-url: https://raw.githubusercontent.com/api-evangelist/public-service-enterprise/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/public-service-enterprise/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.public-service-enterprise.com
+description: >-
+  Public Service Enterprise Group is a publicly traded diversified energy holding
+  company with subsidiaries in regulated electric and natural gas distribution and
+  electric power generation.
