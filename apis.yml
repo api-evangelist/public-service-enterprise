@@ -22,6 +22,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/public-service-enterprise-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pseg
   - type: Website
@@ -30,6 +32,8 @@ common:
     url: https://investor.pseg.com
   - type: About
     url: https://corporate.pseg.com
+  - type: Blog
+    url: https://corporate.pseg.com/newsroom
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
