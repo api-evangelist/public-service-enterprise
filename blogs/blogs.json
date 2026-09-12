@@ -2,23 +2,21 @@
   "repo": "public-service-enterprise",
   "feeds": [
     {
-      "source": "https://corporate.pseg.com/newsroom",
-      "feed_url": "https://corporate.pseg.com/newsroom",
-      "title": "",
-      "saved": 0,
-      "method": "none",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
-    },
-    {
       "source": "https://corporate.pseg.com",
       "feed_url": "https://corporate.pseg.com",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://corporate.pseg.com/newsroom",
+      "feed_url": "https://corporate.pseg.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 8,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
