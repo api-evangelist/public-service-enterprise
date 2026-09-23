@@ -1,7 +1,9 @@
 ---
 title: Public Service Enterprise Group Inc. PEG | US News Best Stocks
 url: https://money.usnews.com/investing/stocks/peg-public-service-enterprise-group-inc
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Public Service Enterprise Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
